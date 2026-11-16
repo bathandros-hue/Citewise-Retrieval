@@ -1,0 +1,1 @@
+A flat-plate solar collector absorbs incoming solar radiation and transfers useful heat to a circulating fluid. Insulation and cover layers influence thermal losses. The useful gain depends on incident irradiance, the heat removal factor, and collector loss coefficient.

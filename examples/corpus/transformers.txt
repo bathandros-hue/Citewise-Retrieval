@@ -1,0 +1,1 @@
+A transformer model uses attention to combine information across positions in a sequence. Attention weights are derived from query and key vectors, and then applied to value vectors. Training commonly uses gradient descent and automatic differentiation to minimize a task-specific loss.

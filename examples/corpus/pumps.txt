@@ -1,0 +1,1 @@
+A centrifugal pump converts shaft rotation into fluid pressure and flow. Its impeller adds velocity to the liquid, while the volute converts some velocity into pressure. A motor typically supplies torque to the shaft. Pump performance is characterized by the head-flow curve, efficiency, and cavitation margin.
